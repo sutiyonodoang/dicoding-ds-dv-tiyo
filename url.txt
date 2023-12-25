@@ -1,0 +1,2 @@
+file repository --> https://github.com/sutiyonodoang/dicoding-ds-dv-tiyo
+dashboard --> https://dicoding-ds-dv-tiyo.streamlit.app/
