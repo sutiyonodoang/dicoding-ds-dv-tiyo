@@ -8,5 +8,5 @@ pip install pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run dashboard/Final_Assigment-ecommerce_public_dataset.py
+streamlit run Final_Assigment-ecommerce_public_dataset.py
 ```
