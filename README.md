@@ -8,5 +8,5 @@ pip install pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run Dashboard_Ecommerce_Sutiyono.py
+streamlit run dashboard/Dashboard_Ecommerce_Sutiyono.py
 ```
